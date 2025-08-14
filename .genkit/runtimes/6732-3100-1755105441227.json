@@ -1,0 +1,9 @@
+{
+  "id": "6732-3100",
+  "pid": 6732,
+  "name": "TotalTracApp API",
+  "reflectionServerUrl": "http://localhost:3100",
+  "timestamp": "2025-08-13T17:17:21.227Z",
+  "genkitVersion": "nodejs/1.16.0",
+  "reflectionApiSpecVersion": 1
+}
